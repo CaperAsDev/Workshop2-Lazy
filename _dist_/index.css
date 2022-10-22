@@ -1,3 +1,8 @@
 @import "../_snowpack/pkg/tailwindcss/dist/base.css";
 @import "../_snowpack/pkg/tailwindcss/dist/components.css";
 @import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+.image_container{
+    display: flex;
+    flex-wrap: wrap;
+}
